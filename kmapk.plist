@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.wuchaoyuan.com/app/app.ipa</string>
+					<string>http://www.kmapk.com/app/kmapk.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.wuchaoyuan.com/app/app.png</string>
+					<string>http://www.kmapk.com/app/kmapk.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.wuchaoyuan.com/app/app.png</string>
+					<string>http://www.kmapk.com/app/kmapk.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>伍朝园</string>
+				<string>KM盒子</string>
 			</dict>
 		</dict>
 	</array>
